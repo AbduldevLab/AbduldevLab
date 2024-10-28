@@ -1,4 +1,4 @@
-## Hello, world! <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="30" width="30">
+## print('Hello, world!') <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="30" width="30">
 
 I'm Abderahman a.k.a Abdul, Abder which ever helps you hahaha.
 
