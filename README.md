@@ -3,7 +3,7 @@
 I'm Abderahman a.k.a Abdul, Abder which ever helps you hahaha.
 
 - 🎒 I’m currently pursuing a Masters degree 'part time' in Artificial Intelligence at the [University of Limerick](https://www.ul.ie/)
-- 💻 Currently employed @Northern Trust as a tech associate in software development
+- 💻 Currently employed @Northern Trust in the tech space as an associate in software development
 - 📫 How to reach me: <a href='mailto:abdul01hd@yahoo.com'>abdul01hd@yahoo.com </a>
 
 ## 📊 My Github Stats <a href='https://github.com/abduldevlab?tab=followers'><img src='https://img.shields.io/github/followers/abduldevlab?label=Followers&style=social'></a> <a href='https://github.com/abduldevlab'><img src='https://komarev.com/ghpvc/?username=abduldevlab'></a>
