@@ -24,5 +24,5 @@ I'm Abderahman a.k.a Abdul, Abder which ever helps you hahaha.
   <a href='https://www.linkedin.com/in/abder-h-244940193/'><img src='https://www.iconfinder.com/icons/5296501/download/svg/128' style='height:36px;width:36px;'/></a>&nbsp;&nbsp;
   <!-- <a href='https://twitter.com/'><img src='https://www.iconfinder.com/icons/5296514/download/svg/128' style='height:36px;width:36px;' /></a>&nbsp;&nbsp;
   <a href='https://www.instagram.com//'><img src='https://www.iconfinder.com/icons/5296765/download/svg/128' style='height:36px;width:36px;' /></a>&nbsp;&nbsp;
-  <a href='https://www.youtube.com/channel/UCcZAfX7FlHBgD2Wi7xQWfMw'><img src='https://www.iconfinder.com/icons/5296521/download/svg/128' style='height:36px;width:36px;' /></a> -->
+  <a href='https://www.youtube.com/'><img src='https://www.iconfinder.com/icons/5296521/download/svg/128' style='height:36px;width:36px;' /></a> -->
 </p>
