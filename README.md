@@ -19,7 +19,7 @@ I'm Abderahman a.k.a abdul,abder which ever helps you hahaha.
   <p><u><b>To Note:</b></u> These stats represent my work on my public Github profile and are not indicative of my full experience or skill level.</p>
 </p>
 
-## 🤝 Socials
+## 📲 Socials
 <p align='center'>
   <a href='https://www.linkedin.com/in/abder-h-244940193/'><img src='https://www.iconfinder.com/icons/5296501/download/svg/128' style='height:36px;width:36px;'/></a>&nbsp;&nbsp;
   <!-- <a href='https://twitter.com/'><img src='https://www.iconfinder.com/icons/5296514/download/svg/128' style='height:36px;width:36px;' /></a>&nbsp;&nbsp;
