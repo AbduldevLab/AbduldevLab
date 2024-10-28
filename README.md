@@ -8,14 +8,14 @@ I'm Abderahman a.k.a Abdul, Abder which ever helps you hahaha.
 
 ## 📊 My Github Stats <a href='https://github.com/abduldevlab?tab=followers'><img src='https://img.shields.io/github/followers/abduldevlab?label=Followers&style=social'></a> <a href='https://github.com/abduldevlab'><img src='https://komarev.com/ghpvc/?username=abduldevlab'></a>
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a>
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdul's streak" src="https://streak-stats.demolab.com/?user=abduldevlab&theme=chartreuse-dark&hide_border=true&bg_color=30363D"/>
     </a>
 </p>
 <p align="center">
   <br/>
-  <a href='https://github.com/anuraghazra/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api?username=abduldevlab&count_private=true&layout=compact&theme=great-gatsby&show_icons=true&hide_border=true&bg_color=0D1117'></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abdul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduldevlab&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&show_icons=true" /></a>
+  <a><img src='https://github-readme-stats.vercel.app/api?username=abduldevlab&count_private=true&layout=compact&theme=great-gatsby&show_icons=true&hide_border=true&bg_color=0D1117'></a>
+  <a><img alt="Abdul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduldevlab&langs_count=8&count_private=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&show_icons=true" /></a>
   <p><u><b>To Note:</b></u> These stats represent my work on my public Github profile and are not indicative of my full experience or skill level.</p>
 </p>
 
